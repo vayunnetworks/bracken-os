@@ -1,5 +1,7 @@
 # Operating system and host runtime — BRACKEN Engineering Guide
 
+> Linux-based operating system foundation for BRACKEN network nodes, covering boot, kernel integration, system services, installation, hardening, upgrades, and recovery.
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN OS
